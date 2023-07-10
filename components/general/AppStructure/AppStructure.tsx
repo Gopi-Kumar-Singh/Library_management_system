@@ -15,7 +15,7 @@ import ListItemText from "@mui/material/ListItemText";
 import { styled, useTheme } from "@mui/material/styles";
 import Link from "next/link";
 import { useState } from "react";
-import AppNavbar from "../AppNavBar/AppNavbar";
+import AppNavbar from "../AppNavBar/AppNavBar";
 import sidebar from "./Sidebar.module.css";
 
 const drawerWidth = 270;
